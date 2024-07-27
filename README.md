@@ -1,2 +1,2 @@
 # NFL-JS
- API Wrapper to get nfl stats for node js 
+NODE-JS library for calling requests from NFL API
